@@ -1,0 +1,6 @@
+*.txt
+*.png
+*.jpeg
+.env
+config.py
+.DS_Store
